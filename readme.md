@@ -1,5 +1,9 @@
 # randid
 
+[![Build Status](https://travis-ci.com/iguntur/randid.svg?token=Gqg6SWkLJ3YyFSAu5i3M&branch=master)](https://travis-ci.com/iguntur/randid)
+[![npm](https://img.shields.io/npm/v/@guntur/randid.svg?style=flat)](https://www.npmjs.org/package/@guntur/randid)
+[![node](https://img.shields.io/node/v/@guntur/randid.svg?style=flat)](https://nodejs.org)
+
 > Generate a random string or id
 
 
