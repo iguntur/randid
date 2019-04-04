@@ -1,6 +1,6 @@
 {
 	"name": "@guntur/randid",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"description": "Generate a random string or id",
 	"repository": "iguntur/randid",
 	"license": "MIT",
