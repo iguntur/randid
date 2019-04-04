@@ -1,0 +1,32 @@
+{
+	"name": "@guntur/randid",
+	"version": "0.0.0",
+	"description": "Generate a random string or id",
+	"repository": "iguntur/randid",
+	"license": "MIT",
+	"files": [
+		"index.js"
+	],
+	"scripts": {
+		"test": "ava"
+	},
+	"author": {
+		"name": "Guntur Poetra",
+		"email": "poetra.guntur@gmail.com",
+		"url": "https://github.com/iguntur"
+	},
+	"keywords": [
+		"random",
+		"id",
+		"string",
+		"generator"
+	],
+	"engines": {
+		"node": ">=6",
+		"npm": ">=6"
+	},
+	"devDependencies": {
+		"@guntur/eslint-config": "0.0.5",
+		"ava": "^1.4.1"
+	}
+}
